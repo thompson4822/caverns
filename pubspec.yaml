@@ -1,3 +1,5 @@
 name: caverns
 dependencies:
   browser: any
+  stagexl: any
+  unittest: any
